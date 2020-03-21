@@ -4,10 +4,9 @@ The purpose of our System is to simplify communication and coordination of repai
 If a wind turbine breaks down, our app makes this easy for the owner to recognize in a wind turbine overview.
 In addition, the app allows the owner to easily arrange a technician for his defective wind turbines
 
+<img src="media/SplashScreen.png" width="40%">
 
-![SplashScreen](media/SplashScreen.png)
-
-![MainScreen](media/MainScreen_1.png)
+<img src="media/MainScreen_1.png" width="40%">
 
 ## Getting Started
 
