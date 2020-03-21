@@ -1,0 +1,12 @@
+﻿commissioning_date;electrical_capacity;voltage_level;dso;federal_state;postcode;municipality_code;municipality;address;lat;lon
+2018-12-19;3,6;medium voltage;Mitteldeutsche Netzgesellschaft Strom mbH;Sachsen-Anhalt;6179;15088365;Teuschenthal;Flstk.: 363, Flur: 1, Gmkg.: Teutschenthal -;51,44312146;11,79945026
+2018-12-19;4;high voltage;E.DIS Netz GmbH;Brandenburg;17291;12073216;Göritz;Gemarkung Tornow, Flur 1, Flurstück 400 siehe Straße;53,28528215;13,92949647
+2018-12-20;2,35;medium voltage;E.DIS Netz GmbH;Mecklenburg-Vorpommern;18233;13072074;Neubukow;Gemarkung Neubukow, Flur 1, Flurstück 83 siehe Straße;54,01374969;11,68962555
+2018-12-21;2,35;medium voltage;Schleswig-Holstein Netz AG;Schleswig-Holstein;25774;1051047;Hemme;an der B5 Flurstück 77 Gemarkung Hemme Flur 1 Außenbereich;54,29390536;8,98405699
+2018-12-27;3,6;high voltage;Avacon Netz GmbH;Niedersachsen;49751;3454047;Sögel;Gemarkung Sögel, Flur 62, Flur 9/2 -;52,84714467;7,51973386
+2018-12-28;3,45;medium voltage;EnergieNetz Mitte GmbH;Hessen;36289;6632006;Friedewald;Gemarkung Friedewald, Fl. 2, Flst. 5/4 Aussenbereich;50,87359837;9,86237485
+2018-12-29;3,45;medium voltage;EnergieNetz Mitte GmbH;Hessen;36289;6632006;Friedewald;Gemarkung Friedewald, Fl. 2, Flst. 5/4 Aussenbereich;50,87359837;9,86237485
+2018-12-29;3,45;medium voltage;EnergieNetz Mitte GmbH;Hessen;36289;6632002;Friedewald;Gemarkung Friedewald, Fl. 2, Flst. 23/9 Aussenbereich;50,87359837;9,86237485
+2018-12-29;3,45;medium voltage;EnergieNetz Mitte GmbH;Hessen;36289;6632006;Friedewald;Gemarkung Friedewald, Fl. 2, Flst. 5/4 Aussenbereich;50,87359837;9,86237485
+2018-12-29;3,45;medium voltage;EnergieNetz Mitte GmbH;Hessen;36289;6632002;Friedewald;Gemarkung Friedewald, Fl. 2, Flst. 23/9 Aussenbereich;50,87359837;9,86237485
+2018-12-30;4,2;high voltage;E.DIS Netz GmbH;Brandenburg;16356;12060005;Blumberg;Gemarkung Blumberg, Flur 6, Flurstück 53 ohne;52,65104248;13,70815916

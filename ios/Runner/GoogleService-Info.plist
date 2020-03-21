@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>457267041309-es1h3609bpt9ptdk7d4p02pr1sncbc81.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.457267041309-es1h3609bpt9ptdk7d4p02pr1sncbc81</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCwdW9Q6_u_vXE9Y14mDo9X_wLek2xjj0w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>457267041309</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.windfarmville</string>
+	<key>PROJECT_ID</key>
+	<string>windfarmvillechat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>windfarmvillechat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:457267041309:ios:d5e67a465d40dcd26622f4</string>
+	<key>DATABASE_URL</key>
+	<string>https://windfarmvillechat.firebaseio.com</string>
+</dict>
+</plist>

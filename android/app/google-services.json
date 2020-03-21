@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457267041309",
+    "firebase_url": "https://windfarmvillechat.firebaseio.com",
+    "project_id": "windfarmvillechat",
+    "storage_bucket": "windfarmvillechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457267041309:android:91c0c4369416e08d6622f4",
+        "android_client_info": {
+          "package_name": "com.example.windfarmville"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457267041309-6tpnbvfc8egjb596u8eenvg44pouvq1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQLguDSa5fNufB0tpZQ60FN6t-o8M5R-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457267041309-6tpnbvfc8egjb596u8eenvg44pouvq1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
